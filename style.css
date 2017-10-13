@@ -1,0 +1,17 @@
+div {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+.rec1 {
+  background-color: blue;
+  top: 0;
+  left: 0;
+}
+
+.rec2 {
+  background-color: red;
+  top: 0;
+  right: 100px;
+}
